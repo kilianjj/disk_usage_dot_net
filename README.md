@@ -1,3 +1,2 @@
 # .NET Core disk usage program
-
-see a summary of disk usage from a specified directory
+Simple .NET Core application that gives a summary of disk storage used by a specified directory. Uses a threadpool for more efficiently traversing subdirectories. 
